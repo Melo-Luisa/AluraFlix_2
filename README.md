@@ -1,4 +1,4 @@
-<h1 style: align='center'>  AluraFlixb 2 🎥</h1>
+<h1 style: align='center'>  AluraFlix 2 🎥</h1>
 <div style: align='center'>
 🤿 Imersão Alura Dev 6 - 3ª aula
 <li>Adicionando de um catalógo de Filmes</li>
